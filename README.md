@@ -59,4 +59,4 @@ Esse projeto está sob licença. Clique no arquivo [LICENÇA](https://github.com
 
 ---
 
-Feito com 💙 by larisn
+Feito com 💜 by larisn
