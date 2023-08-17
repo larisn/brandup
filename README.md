@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="assets/img/brand.svg" width="250px">
+<img src="assets/img/icon/brand.svg" width="250px">
 </h1>
 <br>
 
@@ -8,7 +8,7 @@
 📊 Preview - Desktop
 </h3>
 
-![Desktop](https://github.com/larisn/dental-health/blob/main/assets/img/preview.png)
+![Desktop](https://github.com/larisn/brandup/blob/main/assets/img/preview.png)
 <br>
 <br>
 
